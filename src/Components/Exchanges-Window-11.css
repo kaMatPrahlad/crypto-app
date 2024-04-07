@@ -1,0 +1,38 @@
+.ex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 5rem;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.name {
+    width: 7rem;
+}
+
+.price {
+    width: 7rem;
+}
+
+.rank {
+    width: 7rem;
+}
+
+.btns button {
+    background-color: orange;
+    margin-left: 30px;
+    margin-top: 65px;
+    border-radius: 10px;
+    height: 2rem;
+    width: 5rem;
+    border: none;
+    font-size: 1vw;
+    cursor: pointer;
+
+
+}
+
+.btns {
+    margin-left: 12rem;
+}
